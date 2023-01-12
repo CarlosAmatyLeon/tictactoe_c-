@@ -4,6 +4,8 @@
 #include <time.h>
 #include <regex>;
 
+//Note : No exception handling has been implemented
+
 using namespace std;
 
 // Main functions
