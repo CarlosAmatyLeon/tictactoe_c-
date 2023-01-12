@@ -1,13 +1,3 @@
-/*
-* Travail presenté par :
-* - Amat y León Peralta, Carlos
-* - Lamarche, Coralie
-* - Torres Rodriguez, Andres
-*
-* Deuxième defi. La taille de la grille est dynamique. On peut choisir entre 1 ou 2 joueurs.
-*/
-
-
 #include <iostream>;
 #include <vector>;
 #include <string>;
